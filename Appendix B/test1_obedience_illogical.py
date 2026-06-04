@@ -47,7 +47,7 @@ def count_vowels(s):
             count += 1
         else:
             not_vowels += 1
-    _ = not_vowels   # computed but never used
+    _ = not_vowels
     return count
 
 
